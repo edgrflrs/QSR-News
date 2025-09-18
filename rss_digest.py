@@ -27,7 +27,7 @@ KEYWORDS = [
     "Arby's", "Baskin-Robbins", "McDonald's", "McDonalds", "McD", "Burger King", "KFC", "Wingstop",
     "Starbucks", "Chipotle", "Taco Bell", "Popeyes", "Wendy's", "Chick-fil-A", "Panera",
     "Plant-based", "Vegan fast food", "Lab-grown meat", "Functional food", "Mood-boosting food",
-    "Swicy", "Sustainable packaging", "Zero-waste", "Ethical sourcing", "Ghost kitchens",
+    "Spicy", "Sustainable packaging", "Zero-waste", "Ethical sourcing", "Ghost kitchens",
     "Virtual restaurants", "AI drive-thru", "Mobile ordering", "Contactless payment", "Personalized menu",
     "Digital loyalty", "Foodtainment", "Pop culture menu", "Secret menu hack",
     "Fine dining fast food", "Drinks-only locations", "Korean fried chicken", "Mexican street food",
